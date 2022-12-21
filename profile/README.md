@@ -1,6 +1,6 @@
 # 전자음악 갤러리
 
-![John Cage. (c) Corinto Marianelli](johncage.jpg)
+![John Cage. (c) Corinto Marianelli](https://raw.githubusercontent.com/elecmusic/.github/main/profile/johncage.jpg)
 
 > "Tomorrow, with electronic music in our ears, we will hear freedom." (John Cage)
 
