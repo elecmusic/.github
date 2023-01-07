@@ -10,7 +10,7 @@
 
 ### 연말결산 / 연대결산
 
-- 2022년: [진행 중](https://docs.google.com/forms/d/e/1FAIpQLSdjZ4yymv0LBHNHZ058_LlDdDwjrMe4zPoP4yF9JPNF8VEskw/viewform?usp=sf_link)
+- [2022년](https://elecmusic.github.io/2022)
 - [2021년](https://elecmusic.github.io/2021)
 - [2020년](https://elecmusic.github.io/2020)
 - [2010년대](https://elecmusic.github.io/2010s)
